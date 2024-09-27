@@ -5,7 +5,7 @@ public class Main {
 
  
         Artwork artwork1 = new Artwork("Chemistry", 2024, artist);
-        Artwork artwork2 = new Artwork("Physics", 2024); // Uses default artist
+        Artwork artwork2 = new Artwork("Physics", 2024); 
 
 
         artwork1.displayInformation();
